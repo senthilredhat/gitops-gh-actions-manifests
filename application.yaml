@@ -10,7 +10,7 @@ spec:
   source:
     path: helm
     # Replace "YOUR_ORG_OR_USERNAME" with the location of your manifest repo fork
-    repoURL: 'https://github.com/YOUR_ORG_OR_USERNAME/gitops-gh-actions-manifests'
+    repoURL: 'https://github.com/senthilredhat/gitops-gh-actions-manifests'
     targetRevision: HEAD
     helm:
       valueFiles:
