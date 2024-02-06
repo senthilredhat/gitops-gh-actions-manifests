@@ -1,7 +1,7 @@
 nodeapp:
   # This image tag can be automatically updated by invoking the workflow
   # included in this repository 
-  image: quay.io/rh_ee_sekumar/gitops-and-actions:sha-b5e9d4a
+  image: quay.io/rh_ee_sekumar/gitops-and-actions:sha-0a896fb
   replicas: 1
   resources:
     requests:
